@@ -1,8 +1,8 @@
 {
     "name": "php-pm/zend-adapter",
     "require": {
-        "zendframework/zend-http": "2.3.*",
-        "zendframework/zend-mvc": "2.3.*"
+        "zendframework/zend-http": "2.4.*",
+        "zendframework/zend-mvc": "2.4.*"
     },
     "autoload": {
         "psr-4": {
